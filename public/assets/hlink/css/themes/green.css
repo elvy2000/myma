@@ -1,0 +1,47 @@
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
+
+    Color: Green
+   
+    ========================================================  */
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    background-color: #ef721f;
+}
+/* =============================================================
+   NAVBAR  STYLES
+ ============================================================ */
+.navbar-inverse {
+background-color: #dc5c05;
+border-color: #dc5c05;
+}
+
+/* =============================================================
+   ABOUT STYLES
+ ============================================================ */
+.developer-img {
+    border: 5px solid #ef721f;
+}
+
+
+
+.testimonial:after {
+    border-top-color: #ef721f;
+}
+
+.testimonial {
+    border: 1px solid #ef721f;
+}
+
+.testimonial-name {
+    color: #ef721f;
+}
